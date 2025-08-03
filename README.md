@@ -32,4 +32,4 @@ Data Modeling
 Interactive Visuals and UX Layouts
 🖼️ Screenshots: 
 * https://github.com/saptarshimon06/Spotify/blob/main/Spotify_Overview%20Dashboard.JPG
-* 
+* https://github.com/saptarshimon06/Spotify/blob/main/Spotify_Lisitting.JPG
